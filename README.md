@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="800" alt="Logo" src="https://github.com/user-attachments/assets/2b239dfd-d614-464f-9c7e-61f01c221865" />
+  <img width="500" alt="Logo" src="https://github.com/user-attachments/assets/2b239dfd-d614-464f-9c7e-61f01c221865" />
 </div>
 
 # 🧸 Toyland Inventory System
