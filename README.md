@@ -65,7 +65,7 @@ Upon successful building, the Toyland Inventory System can be operated as follow
 
 ## 📧 Contact
 
-For project inquiries or technical feedback, please contact the developer:
+For any inquiries or feedback regarding this project, please reach out:
 
 | Contributor | Github Account |
 | :-------------- | :--------------------------------------- |
